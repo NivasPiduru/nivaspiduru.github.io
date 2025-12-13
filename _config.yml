@@ -13,7 +13,7 @@ title                    : "Nivas Piduru"
 title_separator          : "-"
 name                     : &name "Nivas Piduru"
 description              : &description "Robotics graduate student at Arizona State University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      :"https://nivaspiduru.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://nivaspiduru.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NivasPiduru/nivaspiduru.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Nivas Piduru"
   pronouns         : # example: "she/her"  
-  bio              :"Robotics student at Arizona State University. Building the future of autonomous systems."
+  bio              : "Robotics student at Arizona State University. Building the future of autonomous systems."
   location         :  "Tempe, Arizona"
   employer         : "Arizona State University"
   uri              : # URL
