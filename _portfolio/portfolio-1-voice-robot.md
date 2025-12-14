@@ -6,7 +6,7 @@ date: 2025-12-01
 ---
 ## Project Links
 * **GitHub Repository**: [View Code](https://github.com/NivasPiduru/voice-controlled-robot) 
-* **Video Demo**: [Watch Demo](https://youtu.be/byuuhB1L9Vg)
+* **Video Demo**: [Watch Demo](https://youtu.be/byuuGB1L9Vg)
 * **Project Report**: [Download PDF](/files/RAS_545_Final_Project.pdf)
 
 ## Overview
