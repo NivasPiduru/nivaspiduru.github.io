@@ -1,4 +1,3 @@
-
 ---
 title: "Voice-Controlled Robotic Manipulation System"
 excerpt: "AI-powered robot responding to natural language voice commands with computer vision and LLM integration"
