@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Project Links
-* **GitHub Repository**: [View Code](https://github.com/NivasPiduru/maze-solver-robot)
+* **GitHub Repository**: [View Code](https://github.com/NivasPiduru/autonomous-maze-solver)
 * **Video Demo**: [Watch Demo](https://youtu.be/uBfR9s_YYWY)
 
 ## Overview
