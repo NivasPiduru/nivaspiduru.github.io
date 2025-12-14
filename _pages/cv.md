@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Education
+<h2 style="border-bottom: 3px solid #FDB813; display: inline-block; padding-bottom: 5px;">Education</h2>
 
 ### Master of Science in Robotics and Autonomous Systems
 **Arizona State University** | Tempe, Arizona  
@@ -27,7 +27,7 @@ Comprehensive program covering machine learning, deep learning, computer vision,
 
 ---
 
-## Work Experience
+<h2 style="border-bottom: 3px solid #FDB813; display: inline-block; padding-bottom: 5px;">Work Experience</h2>
 
 ### Junior Search and Patent Analyst (Intern)
 **MAXVAL** | Chennai, India  
@@ -41,7 +41,7 @@ Comprehensive program covering machine learning, deep learning, computer vision,
 
 ---
 
-## Technical Skills
+<h2 style="border-bottom: 3px solid #FDB813; display: inline-block; padding-bottom: 5px;">Technical Skills</h2>
 
 ### Programming Languages
 * Python
