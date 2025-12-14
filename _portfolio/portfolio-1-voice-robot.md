@@ -1,11 +1,10 @@
 
 ---
 title: "Voice-Controlled Robotic Manipulation System"
-excerpt: "AI-powered robot responding to natural language voice commands with computer vision and LLM integration<br/><img src='/images/voice-robot.jpg'>"
+excerpt: "AI-powered robot responding to natural language voice commands with computer vision and LLM integration"
 collection: portfolio
 date: 2025-12-01
 ---
-
 ## Project Links
 * **GitHub Repository**: [View Code](https://github.com/NivasPiduru/voice-controlled-robot) 
 * **Video Demo**: [Watch Demo](https://youtu.be/byuuhB1L9Vg)
