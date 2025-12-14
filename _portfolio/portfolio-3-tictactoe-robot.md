@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Tic-Tac-Toe Playing Robot"
+title: "Tic-Tac-Toe Playing Robot"
 excerpt: "Interactive game-playing robot using computer vision and Minimax AI algorithm for intelligent opponent gameplay"
 collection: portfolio
 ---
