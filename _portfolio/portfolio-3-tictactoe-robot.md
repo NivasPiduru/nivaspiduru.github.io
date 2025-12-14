@@ -2,7 +2,6 @@
 title: "Autonomous Tic-Tac-Toe Playing Robot"
 excerpt: "Interactive game-playing robot using computer vision and Minimax AI algorithm for intelligent opponent gameplay"
 collection: portfolio
-date: 2025-10-01
 ---
 
 ## Project Links
