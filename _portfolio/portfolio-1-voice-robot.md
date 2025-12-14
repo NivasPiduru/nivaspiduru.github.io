@@ -4,7 +4,7 @@ excerpt: "AI-powered robot responding to natural language voice commands with co
 collection: portfolio
 ---
 ## Project Links
-* **GitHub Repository**: [View Code](https://github.com/NivasPiduru/voice-controlled-robot) 
+* **GitHub Repository**: [View Code](https://github.com/NivasPiduru/text-and-voice-controlled-robot) 
 * **Video Demo**: [Watch Demo](https://youtu.be/byuuGB1L9Vg)
 
 ## Overview
