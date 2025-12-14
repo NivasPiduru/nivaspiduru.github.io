@@ -2,7 +2,6 @@
 title: "Autonomous Maze Solver Using Computer Vision and AI"
 excerpt: "Robot that detects, plans, and navigates mazes of varying sizes using BFS algorithm and homography transformation"
 collection: portfolio
-date: 2025-11-15
 ---
 
 ## Project Links
