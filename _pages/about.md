@@ -30,7 +30,7 @@ I started in automobile engineering at Velammal Engineering College in India, wh
 
 ## Beyond the Lab
 
-When I'm not training robots or debugging code, I share what I learn on my YouTube channel, contribute to open-source projects, and stay curious about emerging technologies in AI and robotics.
+When I'm not training robots or debugging code, I share what I learn on my YouTube channel and stay curious about emerging technologies in AI and robotics.
 
 ## Let's Connect
 
