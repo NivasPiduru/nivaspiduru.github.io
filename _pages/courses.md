@@ -27,7 +27,7 @@ author_profile: true
 
 Comprehensive program covering machine learning, deep learning, computer vision, natural language processing, and statistical analysis. Completed capstone projects in time series forecasting and computer vision applications.
 
-**[View Certificate](https://raw.githubusercontent.com/NivasPiduru/nivaspiduru.github.io/master/images/cert-pg-diplma.png)**
+**[View Certificate](https://raw.githubusercontent.com/NivasPiduru/nivaspiduru.github.io/master/images/cert-pg-diploma.png)**
 
 ---
 
