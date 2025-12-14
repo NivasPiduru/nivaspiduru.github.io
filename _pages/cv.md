@@ -24,7 +24,6 @@ Comprehensive program covering machine learning, deep learning, computer vision,
 ### Bachelor of Engineering in Automobile Engineering
 **Velammal Engineering College** | Chennai, India  
 *Sep 2018 - July 2022*  
-CGPA: 8.19/10
 
 ---
 
@@ -47,7 +46,6 @@ CGPA: 8.19/10
 ### Programming Languages
 * Python
 * MATLAB
-* C++ (Arduino programming)
 
 ### Robotics & AI Frameworks
 * ROS2 (Humble)
