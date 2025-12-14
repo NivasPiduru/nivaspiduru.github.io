@@ -8,7 +8,7 @@ author_profile: true
 ## Master's Coursework
 
 ### Robotics and Autonomous Systems (MS)
-**Arizona State University** | Aug 2024 - Dec 2026
+**Arizona State University** | Jan 2025 - Dec 2026
 
 #### Core Courses
 * **RAS 501** - Applied Linear Algebra for Engineers
@@ -19,31 +19,3 @@ author_profile: true
 * **MAE 598** - Introduction to Autonomous Vehicle Engineering
 
 ---
-
-## Professional Development
-
-### PG Diploma in Data Analytics and Machine Learning
-**Dec 2022 - Sep 2023**
-
-**Key Topics Covered:**
-* Python
-* SQL
-* Big data
-* Machine Learning Fundamentals
-* Deep Learning & Neural Networks
-* Computer Vision
-* Natural Language Processing
-* Time Series Analysis
-* Statistical Methods
-
-**Capstone Projects:**
-* Time Series Forecasting for Stock Price Prediction
-* License Plate Detection & Parking System using Computer Vision
-
----
-
-### Undergraduate Studies
-
-**B.E. in Automobile Engineering**  
-Velammal Engineering College, Chennai | 2018 - 2022  
-CGPA: 8.19/10
