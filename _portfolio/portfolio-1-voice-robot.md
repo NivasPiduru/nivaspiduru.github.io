@@ -7,7 +7,6 @@ date: 2025-12-01
 ## Project Links
 * **GitHub Repository**: [View Code](https://github.com/NivasPiduru/voice-controlled-robot) 
 * **Video Demo**: [Watch Demo](https://youtu.be/byuuGB1L9Vg)
-* **Project Report**: [Download PDF](/files/RAS_545_Final_Project.pdf)
 
 ## Overview
 Developed an autonomous robotic manipulation system that responds to natural language voice commands, integrating computer vision, LLM-based parsing, and real-time robot control. The system enables non-technical users to control complex robotic tasks through simple voice commands like "stack the red block on the blue one."
