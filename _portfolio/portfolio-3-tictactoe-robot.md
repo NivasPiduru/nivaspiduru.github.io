@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Project Links
-* **GitHub Repository**: [View Code](https://github.com/NivasPiduru/tictactoe-robot)
+* **GitHub Repository**: [View Code](https://github.com/NivasPiduru/tictactoe-playing-robot)
 * **Video Demo**: [Watch Demo](https://youtube.com/shorts/eE9nDp7xyAE?feature=share)
 
 ## Overview
