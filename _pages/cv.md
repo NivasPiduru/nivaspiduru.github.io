@@ -80,11 +80,3 @@ CGPA: 8.19/10
 ## Selected Projects
 
 *For detailed project descriptions, please visit the [Projects](/portfolio/) page.*
-
-**Graduate Research:**
-* Voice-Controlled Robotic Manipulation System (ROS2, LLM Integration, Computer Vision)
-* Autonomous Maze Solver (Computer Vision, BFS Algorithm, AI-Assisted Development)
-* Tic-Tac-Toe Playing Robot (Minimax AI, Game Theory)
-
-**Undergraduate Capstone:**
-* Agriculture Drone Pesticide Delivery Trolley (Arduino, Remote Control Systems)
