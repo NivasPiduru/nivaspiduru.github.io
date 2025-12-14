@@ -7,7 +7,7 @@ date: 2025-11-15
 
 ## Project Links
 * **GitHub Repository**: [View Code](https://github.com/NivasPiduru/maze-solver-robot)
-* **Video Demo**: [Watch Demo](https://youtu.be/uBfR9sYYWY)
+* **Video Demo**: [Watch Demo](https://youtu.be/uBfR9s_YYWY)
 
 ## Overview
 Developed a fully autonomous robotic system capable of solving rectangular mazes of any size (3×3, 4×4, 5×5) without human intervention. The system integrates computer vision for maze detection, BFS path planning for optimal solutions, and precise robotic control with millimeter-level accuracy.
